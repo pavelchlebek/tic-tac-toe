@@ -10,6 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Palko je bůh!!! And he is working with TS so well!!!</p>
+        <p>Anther change just for github</p>
         <a
           className="App-link"
           href="https://reactjs.org"
